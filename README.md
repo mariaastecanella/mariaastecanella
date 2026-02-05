@@ -19,7 +19,7 @@ Sou apaixonada por aprender coisas novas e fico empolgada com as possibilidades 
 
 ---
 
-### 🧩 Tecnologias que estou aprendendo
+### ✨ Tecnologias que estou aprendendo
 
 #### 🌐 Linguagens de marcação
 ![HTML5](https://img.shields.io/badge/HTML5-ff1493?style=for-the-badge&logo=html5&logoColor=white)

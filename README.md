@@ -1,9 +1,11 @@
 ## 👩‍💻 Maria Eduarda Stecanella
 
-Olá! Me chamo Maria Eduarda, estou no terceiro ano do ensino médio e faço um curso técnico em Informática.  
-Durante o curso, estou aprendendo a programar em Java e PHP, também desenvolvendo habilidades em lógica de programação, desenvolvimento de sistemas e boas práticas na área da tecnologia.  
+Olá! Me chamo Maria Eduarda, conclui terceiro ano do ensino médio e junto com curso técnico em Informática.  
+Durante o curso, aprendi a programar em Java e PHP, também consegui desenvolver habilidades em lógica de programação, desenvolvimento de sistemas e boas práticas na área da tecnologia.  
 
-Atualmente estou realizendo um projeto de conclusão de curso, nas linguagens PHP e JS.
+Para conclusão de curso realizei um projeto utilizando as linguagens, PHP, JS para programação, o banco de dados foi utilizado o MySQL. E a plataforma de desenvolvimento foi PhpStorm.
+
+Atualmente vou ingressar no curso de Engenharia de Software.
 
 Sou apaixonada por aprender coisas novas e fico empolgada com as possibilidades de, no futuro, poder criar soluções tecnológicas úteis e criativas para o dia a dia das pessoas.
 

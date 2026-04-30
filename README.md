@@ -5,7 +5,7 @@ Durante o curso, aprendi a programar em Java e PHP, também consegui desenvolver
 
 Para conclusão de curso realizei um projeto utilizando as linguagens, PHP, JS para programação, o banco de dados foi utilizado o MySQL. E a plataforma de desenvolvimento foi PhpStorm.
 
-Atualmente vou ingressar no curso de Engenharia de Software.
+Atualmente eustou cursando  Engenharia de Software pela Unisatc.
 
 Sou apaixonada por aprender coisas novas e fico empolgada com as possibilidades de, no futuro, poder criar soluções tecnológicas úteis e criativas para o dia a dia das pessoas.
 
